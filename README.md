@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarcosEufrasio
+- 👀 I’m interested in learn and develop new projects using Java, as my main language, and SQL
+- 🌱 I’m currently learning Java and SQL in Facens University
