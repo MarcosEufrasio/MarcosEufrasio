@@ -1,82 +1,116 @@
-# Olá! Eu sou Marcos Daniel 👋
+# 👋 Olá, eu sou Marcos Daniel
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-💻 Profissional de TI com experiência em suporte técnico e infraestrutura  
-🚀 Em desenvolvimento na área de Backend  
-🔐 Interesse em Cybersecurity
+### 🎓 Análise e Desenvolvimento de Sistemas | 💻 Tecnologia | 🔐 Cybersecurity | 🚀 Backend
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência profissional com suporte técnico, atendimento a usuários, manutenção de computadores e periféricos, instalação e configuração de softwares e gerenciamento de acessos.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com experiência profissional em suporte técnico, atendimento a usuários, manutenção de computadores e periféricos, instalação e configuração de softwares e gerenciamento de acessos.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Backend e Cybersecurity, buscando transformar meus conhecimentos acadêmicos e práticos em projetos reais.
+Tenho interesse em desenvolvimento Backend, infraestrutura e Cybersecurity, buscando evoluir constantemente por meio de estudos, projetos práticos e experiências profissionais.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
 ### 💻 Desenvolvimento
-- Java
-- Spring Boot
-- APIs REST
-- MySQL
-- H2
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge"/>
+</p>
 
 ### 🔐 Cybersecurity
-- Nmap
-- Burp Suite
-- OWASP ZAP
-- SQLMap
-- Wireshark
-- Gobuster
-- Kali Linux
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+</p>
 
 ### 🖥️ TI & Infraestrutura
-- Windows
-- Active Directory
-- Redes
-- Suporte técnico
-- Manutenção de computadores
-- Gerenciamento de acessos
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 ### 🌎 Mapa do Intercambista
-Plataforma voltada para estudantes interessados em intercâmbio, conectando usuários, agências e informações sobre programas de intercâmbio.
 
-**Tecnologias:** Java, Spring Boot, MySQL, Android
+Plataforma desenvolvida academicamente para conectar estudantes interessados em intercâmbio a agências e oportunidades.
 
-🔗 [Ver projeto](#)
+**Tecnologias:** Java • Spring Boot • MySQL • Android
+
+🔗 [Ver repositório](#)
 
 ---
 
-### 🔐 Cybersecurity Labs
-Projetos e laboratórios acadêmicos voltados para fundamentos de segurança da informação, análise de vulnerabilidades e testes em ambientes controlados.
+### 🔐 Projetos de Cybersecurity
 
-**Tecnologias:** Kali Linux, Nmap, Burp Suite, OWASP ZAP, SQLMap
+Laboratórios e projetos acadêmicos envolvendo análise de vulnerabilidades, testes de segurança e exploração controlada de aplicações.
 
-🔗 [Ver projeto](#)
+**Tecnologias:** Kali Linux • Nmap • Burp Suite • OWASP ZAP • SQLMap
+
+🔗 [Ver projetos](#)
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento Backend com Java e Spring Boot
-- APIs REST
-- Banco de dados e SQL
-- Programação Orientada a Objetos
-- Fundamentos de Cybersecurity
+- ☕ Java e Programação Orientada a Objetos
+- 🌱 Spring Boot e desenvolvimento de APIs
+- 🗄️ SQL e bancos de dados
+- 🔐 Fundamentos de Cybersecurity
+- 🖥️ Infraestrutura e redes
+
+---
+
+## 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Centro Universitário Facens
+
+---
+
+## 💼 Experiência
+
+**Jovem Aprendiz de TI — JCB do Brasil**
+
+Atuação com suporte técnico, manutenção e configuração de computadores, instalação de softwares, gerenciamento de periféricos, atendimento a usuários e administração de acessos.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=default"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](SEU_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=flat-square&logo=github)](SEU_GITHUB)
-
-📧 SEU_EMAIL
+<p>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
