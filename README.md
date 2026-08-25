@@ -1,116 +1,153 @@
-# 👋 Olá, eu sou Marcos Daniel
+# 👨🏻‍💻 Marcos Daniel
 
-### 🎓 Análise e Desenvolvimento de Sistemas | 💻 Tecnologia | 🔐 Cybersecurity | 🚀 Backend
+**`Analista de TI | Backend | Cybersecurity`**
 
----
+Me chamo Marcos Daniel e sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela **UniFacens**. Tenho experiência profissional com suporte técnico, atendimento a usuários, manutenção e configuração de computadores e periféricos, instalação de softwares e gerenciamento de acessos.
 
-## 👨‍💻 Sobre mim
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento Backend e Cybersecurity**, buscando evoluir através de estudos e projetos práticos.
 
-Sou Tecnólogo em Análise e Desenvolvimento de Sistemas, com experiência profissional em suporte técnico, atendimento a usuários, manutenção de computadores e periféricos, instalação e configuração de softwares e gerenciamento de acessos.
-
-Tenho interesse em desenvolvimento Backend, infraestrutura e Cybersecurity, buscando evoluir constantemente por meio de estudos, projetos práticos e experiências profissionais.
-
----
-
-## 🛠️ Tecnologias
-
-### 💻 Desenvolvimento
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge"/>
-</p>
-
-### 🔐 Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
-</p>
-
-### 🖥️ TI & Infraestrutura
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge"/>
+<p align="left">
+    <a href="SEU_LINKEDIN">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:SEU_EMAIL">
+        <img 
+            alt="Email" 
+            title="Entre em contato comigo" 
+            src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/MarcosEufrasio?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MarcosEufrasio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-## 🚀 Projetos
+### 🤖 Linguagens e Tecnologias
 
-### 🌎 Mapa do Intercambista
+#### 💻 Desenvolvimento
 
-Plataforma desenvolvida academicamente para conectar estudantes interessados em intercâmbio a agências e oportunidades.
+<img 
+ align="left" 
+ alt="Java"
+ title="Java" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-**Tecnologias:** Java • Spring Boot • MySQL • Android
+<img 
+ align="left" 
+ alt="Spring Boot"
+ title="Spring Boot" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
-🔗 [Ver repositório](#)
+<img 
+ align="left" 
+ alt="MySQL"
+ title="MySQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Android"
+ title="Android" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Git"
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+#### 🔐 Cybersecurity
+
+<img 
+ align="left" 
+ alt="Kali Linux"
+ title="Kali Linux" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Linux"
+ title="Linux" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
+
+**Ferramentas:** Nmap • Burp Suite • OWASP ZAP • SQLMap • Wireshark • Gobuster
+
+#### 🖥️ TI & Infraestrutura
+
+**Conhecimentos:** Windows • Active Directory • Redes • Suporte Técnico • Manutenção de Computadores • Gerenciamento de Acessos
 
 ---
 
-### 🔐 Projetos de Cybersecurity
+### 📚 Atualmente estudando
 
-Laboratórios e projetos acadêmicos envolvendo análise de vulnerabilidades, testes de segurança e exploração controlada de aplicações.
-
-**Tecnologias:** Kali Linux • Nmap • Burp Suite • OWASP ZAP • SQLMap
-
-🔗 [Ver projetos](#)
-
----
-
-## 📚 Atualmente estudando
-
-- ☕ Java e Programação Orientada a Objetos
-- 🌱 Spring Boot e desenvolvimento de APIs
-- 🗄️ SQL e bancos de dados
-- 🔐 Fundamentos de Cybersecurity
-- 🖥️ Infraestrutura e redes
+* ☕ Java e Programação Orientada a Objetos
+* 🌱 Spring Boot e desenvolvimento de APIs REST
+* 🗄️ SQL e bancos de dados
+* 🔐 Fundamentos de Cybersecurity
+* 🖥️ Redes e infraestrutura
 
 ---
 
-## 🎓 Formação
+### 🚀 Projetos
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-Centro Universitário Facens
+> Em breve, projetos selecionados serão adicionados aqui.
 
 ---
 
-## 💼 Experiência
+### 🎓 Formação
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas**
+Centro Universitário Facens — UniFacens
+
+---
+
+### 💼 Experiência
 
 **Jovem Aprendiz de TI — JCB do Brasil**
 
-Atuação com suporte técnico, manutenção e configuração de computadores, instalação de softwares, gerenciamento de periféricos, atendimento a usuários e administração de acessos.
+Atuação com suporte técnico, atendimento a usuários, manutenção e configuração de computadores, instalação de softwares, gerenciamento de periféricos e acessos.
 
 ---
 
-## 📊 GitHub
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=default"/>
-</p>
+### 🚀 Sempre aprendendo. Sempre evoluindo.
 
----
-
-## 📫 Contato
-
-<p>
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
